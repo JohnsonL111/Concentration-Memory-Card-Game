@@ -1,4 +1,6 @@
 # concentration
-concentration card game played on the terminal  
+# Credits to: CMPT-125: Intro to Programming II Assignment 4. 
 <p>&nbsp;</p>
-Credits to: CMPT-125: Intro to Programming II Assignment 4. 
+ concentration card game played on the terminal  
+
+
